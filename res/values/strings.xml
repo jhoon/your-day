@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World</string>
+    <string name="app_name">Your Nth Day</string>
+    <string name="enter_dob">Enter your DOB</string>
+    <string name="enter_ndate">Enter your day to calc.</string>
+    <string name="enter_result_date">Your %1$dth Date is...</string>
+    <string name="result_date">Your Nth Day</string>    
+</resources>

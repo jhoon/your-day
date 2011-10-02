@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:padding="10dip"
+    android:gravity="center"
+    android:text="@string/enter_dob"
+    style='@android:style/TextAppearance.Medium'
+    />
+<TextView
+	android:id="@+id/lblDate"  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:padding="10dip"
+    android:gravity="center"
+    android:text="@string/hello"
+    style='@android:style/TextAppearance.Large'
+    />
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:padding="10dip"
+    android:gravity="center"
+    android:text="@string/enter_ndate"
+    style='@android:style/TextAppearance.Medium'
+    />
+<TextView
+	android:id="@+id/lblNDay"  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:padding="10dip"
+    android:gravity="center"
+    android:text="@string/hello"
+    style='@android:style/TextAppearance.Large'
+    />
+<TextView  
+	android:id="@+id/lblResultTitle"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:padding="10dip"
+    android:gravity="center"
+    android:text="@string/enter_result_date"
+    style='@android:style/TextAppearance.Medium'
+    />
+<TextView
+	android:id="@+id/lblResult"  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:padding="10dip"
+    android:gravity="center"
+    android:text="@string/result_date"
+    style='@android:style/TextAppearance.Large'
+    />
+</LinearLayout>
